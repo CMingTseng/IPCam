@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDlinkCamera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="something">Base on API Level 16 MediaDecode API</string>
+    <string name="clickMe">Click me to camera screen</string>
+
+</resources>
